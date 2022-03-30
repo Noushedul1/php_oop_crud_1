@@ -1,3 +1,10 @@
+#  Website info
+```
+You can insert data , then you can update those specific data which one you want and you can delete data.
+You can able to see all the data which have in the database.
+```
+___
+___
 ```
 Website host link : https://phpoopcrud.000webhostapp.com/index.php
 ```
