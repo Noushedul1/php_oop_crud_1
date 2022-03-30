@@ -19,3 +19,10 @@ ___
 youtube link for 000webhost.com
 https://www.youtube.com/watch?v=IbUmbYKY_Q4
 ```
+___
+___
+## Database import
+```
+First create a database which one's name is students,
+then impoer database file 
+```
