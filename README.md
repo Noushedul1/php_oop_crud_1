@@ -24,5 +24,5 @@ ___
 ## Database import
 ```
 First create a database which one's name is students,
-then impoer database file 
+then import database file 
 ```
